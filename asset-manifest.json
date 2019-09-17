@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/mysideprojectofficalwebsite/static/css/main.d2e63020.chunk.css",
-    "main.js": "/mysideprojectofficalwebsite/static/js/main.fbcd2635.chunk.js",
-    "main.js.map": "/mysideprojectofficalwebsite/static/js/main.fbcd2635.chunk.js.map",
-    "runtime~main.js": "/mysideprojectofficalwebsite/static/js/runtime~main.4ce87e4e.js",
-    "runtime~main.js.map": "/mysideprojectofficalwebsite/static/js/runtime~main.4ce87e4e.js.map",
-    "static/js/2.e6b56aa1.chunk.js": "/mysideprojectofficalwebsite/static/js/2.e6b56aa1.chunk.js",
-    "static/js/2.e6b56aa1.chunk.js.map": "/mysideprojectofficalwebsite/static/js/2.e6b56aa1.chunk.js.map",
-    "index.html": "/mysideprojectofficalwebsite/index.html",
-    "precache-manifest.2f3e51a83239444a8bfd09fb0b86460d.js": "/mysideprojectofficalwebsite/precache-manifest.2f3e51a83239444a8bfd09fb0b86460d.js",
-    "service-worker.js": "/mysideprojectofficalwebsite/service-worker.js",
-    "static/css/main.d2e63020.chunk.css.map": "/mysideprojectofficalwebsite/static/css/main.d2e63020.chunk.css.map",
-    "static/media/MySideProjectLogo.jpeg": "/mysideprojectofficalwebsite/static/media/MySideProjectLogo.a180f2e9.jpeg",
-    "static/media/logo.svg": "/mysideprojectofficalwebsite/static/media/logo.5d5d9eef.svg"
+    "main.css": "/static/css/main.d2e63020.chunk.css",
+    "main.js": "/static/js/main.88012f7a.chunk.js",
+    "main.js.map": "/static/js/main.88012f7a.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.376b44e9.js",
+    "runtime~main.js.map": "/static/js/runtime~main.376b44e9.js.map",
+    "static/js/2.e6b56aa1.chunk.js": "/static/js/2.e6b56aa1.chunk.js",
+    "static/js/2.e6b56aa1.chunk.js.map": "/static/js/2.e6b56aa1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6ce9b49d8ae05262932b8e119c71bcc3.js": "/precache-manifest.6ce9b49d8ae05262932b8e119c71bcc3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d2e63020.chunk.css.map": "/static/css/main.d2e63020.chunk.css.map",
+    "static/media/MySideProjectLogo.jpeg": "/static/media/MySideProjectLogo.a180f2e9.jpeg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
   }
 }
